@@ -13,3 +13,7 @@ python3 main.py --report passwords.txt 8 16 --upper --specials --digits
 ```shell
 python3 main.py --check AlishEr 3 7 --upper
 ```
+
+### Notes
+* Примеры паролей содержатся в файле `passwords.txt`.
+* Пароли обрабатываются пакетами из 1000 паролей за раз.
